@@ -1,6 +1,9 @@
 # Next.js + WordPress
 
-It's headless WordPress! 💀 - <https://nextjswp.com>
+It's headless WordPress! 💀 -
+
+
+<https://nextjswp.com>
 
 This is a bare-bones Next.js app, which fetches data from WordPress via WPGraphQL and styles it with TailwindCSS.
 
